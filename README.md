@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/Jwuthri/Tracely-ai)
+
 <img src="frontend/app/icon.svg" width="76" alt="Tracely" />
 
 # Tracely
