@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/Jwuthri/Tracely-ai)
 
 <img src="frontend/app/icon.svg" width="76" alt="Tracely" />
 
@@ -23,6 +22,7 @@ that would ship them again — and tells you the moment any of it happens.
 **Self-host the whole stack in one click** — API, worker, UI, Postgres, ClickHouse, Redis and MinIO:
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/n5n_LE?referralCode=WCq5Cn&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/Jwuthri/Tracely-ai)
 
 <br />
 
